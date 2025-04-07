@@ -1,6 +1,6 @@
 ![](Aspose.Words.e450ccd8-4595-4e03-969a-3d962591a4b3.001.png)![](Aspose.Words.e450ccd8-4595-4e03-969a-3d962591a4b3.002.png)
 
-**Documentação do Sistema**
+<h1 align="center">Documentação do Sistema</h1>
 
 
 <p align="center"><strong>SUMÁRIO</strong></p>
